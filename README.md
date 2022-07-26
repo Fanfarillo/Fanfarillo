@@ -10,7 +10,7 @@ Here there are my stats:
 
 [![My Activity Graph ](https://activity-graph.herokuapp.com/graph?username=Fanfarillo&theme=react-dark)](https://github.com/Fanfarillo)
 
-Here there are languages and tools that I am learning to use:
+Here there are the languages and tools I am learning to use:
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/>
