@@ -10,7 +10,8 @@ Here there are my stats:
 
 [![My Activity Graph ](https://activity-graph.herokuapp.com/graph?username=Fanfarillo&theme=react-dark)](https://github.com/Fanfarillo)
 
-Do you like Snake? :stuck_out_tongue:
+Here there are languages and tools that I am learning to use:
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Fanfarillo/Fanfarillo/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/Fanfarillo/Fanfarillo/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
+</p>
