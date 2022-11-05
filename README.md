@@ -4,7 +4,7 @@ I am currently completing my studies in Roma Tor Vergata to achieve the master's
 
 Here there are my stats:
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanfarillo&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanfarillo&langs_count=8&theme=tokyonight)]()
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanfarillo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
