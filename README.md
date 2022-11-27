@@ -6,7 +6,7 @@ Here there are my stats:
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanfarillo&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fanfarillo&theme=tokyonight&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fanfarillo&theme=tokyonight)](https://git.io/streak-stats)
 
 [![My Activity Graph ](https://activity-graph.herokuapp.com/graph?username=Fanfarillo&theme=react-dark)](https://github.com/Fanfarillo)
 
