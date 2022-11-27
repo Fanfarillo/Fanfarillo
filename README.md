@@ -1,6 +1,6 @@
 ### Welcome to Fanfa's GitHub! :fire:
 
-I am currently completing my studies in Roma Tor Vergata to achieve the master degree in Computer Engineering.
+I am currently completing my studies in Tor Vergata to achieve the master degree in Computer Engineering.
 
 Here there are my stats:
 
