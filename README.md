@@ -8,8 +8,6 @@ Here there are my stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fanfarillo&theme=tokyonight)](https://git.io/streak-stats)
 
-[![My Activity Graph ](https://activity-graph.herokuapp.com/graph?username=Fanfarillo&theme=react-dark)](https://github.com/Fanfarillo)
-
 Here there are the languages and tools I am learning to use:
 
 <p align="left">
