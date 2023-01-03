@@ -4,9 +4,9 @@ I am currently completing my studies in Tor Vergata to achieve the master degree
 
 Here there are my stats:
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanfarillo&langs_count=8&theme=tokyonight&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanfarillo&langs_count=8&theme=tokyonight&card_width=420)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanfarillo&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide=prs&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanfarillo&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide=prs&card_width=420)](https://github.com/anuraghazra/github-readme-stats)
 
 Here there are the languages and tools I am learning to use:
 
