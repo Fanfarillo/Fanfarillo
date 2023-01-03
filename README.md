@@ -6,7 +6,7 @@ Here there are my stats:
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanfarillo&langs_count=10&theme=tokyonight&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Fanfarillo&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Fanfarillo&theme=tokyonight&date_format=j/n/Y)](https://git.io/streak-stats)
 
 Here there are the languages and tools I am learning to use:
 
