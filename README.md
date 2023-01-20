@@ -2,7 +2,11 @@
 
 I am currently completing my studies in Tor Vergata to achieve the master degree in Computer Engineering.
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanfarillo&langs_count=10&theme=tokyonight&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
+Here there are my stats:
+
+[![My GitHub Language Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fanfarillo&theme=tokyonight&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Fanfarillo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 Here there are the languages and tools I am learning to use:
 
