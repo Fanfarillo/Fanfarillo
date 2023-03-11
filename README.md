@@ -4,6 +4,8 @@ I am currently completing my studies in Tor Vergata to achieve the master degree
 
 Here there are my stats:
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fanfarillo&label=Profile%20views&color=4871c9&style=flat" alt="Fanfarillo"/> </p>
+
 [![My GitHub Language Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fanfarillo&theme=tokyonight&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Fanfarillo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
